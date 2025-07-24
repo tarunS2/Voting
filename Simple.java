@@ -1,5 +1,5 @@
-package Demo;
 
+import java.util.*;
 public class Simple {
     public static void main(String[] args)
     {
